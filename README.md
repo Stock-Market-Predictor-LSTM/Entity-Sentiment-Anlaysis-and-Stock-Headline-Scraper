@@ -94,7 +94,7 @@ To use the scraper:
 
 ### Additional Notes
 - Ensure you have an active internet connection when running the scraper.
-- Check that the ticker symbol you intend to scrape is valid by manually visiting https://www.benzinga.com/quote/(YOUR TICKER HERE)/news.
+- Check that the ticker symbol you intend to scrape is valid by manually visiting 'https://www.benzinga.com/quote/(YOUR_TICKER_HERE)/news'.
 
 ## Conclusion
 
